@@ -25,12 +25,15 @@ Most elements are based on [Misaki Tobisawa](https://skins.osuck.net/skins/171?v
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki Low AR 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%201.1.osk)
-[![](https://osu.ppy.sh/ss/18398438/da78)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%201.1.osk)<br>
+# [Aki Low AR 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.0.osk)
+[![](https://osu.ppy.sh/ss/18417798/52d5)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.0.osk)<br>
 For low gamma.
 
 <details>
 <summary>Previous versions</summary>
+
+## [Aki Low AR 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%201.1.osk)
+[![](https://osu.ppy.sh/ss/18398438/da78)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%201.1.osk)<br>
 
 ## [Aki Low AR 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%201.0.osk)
 [![](https://osu.ppy.sh/ss/18356265/a8b3)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%201.0.osk)<br><br><br>
