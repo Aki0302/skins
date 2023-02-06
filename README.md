@@ -26,7 +26,7 @@ Most elements are based on [Misaki Tobisawa](https://skins.osuck.net/skins/171?v
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 # [Aki Low AR 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.0.osk)
-[![](https://osu.ppy.sh/ss/18417798/52d5)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.0.osk)<br>
+[![](https://osu.ppy.sh/ss/18420356/4013)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.0.osk)<br>
 For low gamma.
 
 <details>
@@ -41,12 +41,15 @@ For low gamma.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki Low AR HD 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%201.1.osk)
-[![](https://osu.ppy.sh/ss/18398461/c1ed)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%201.1.osk)<br>
+# [Aki Low AR HD 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%202.0.osk)
+[![](https://osu.ppy.sh/ss/18420357/d704)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%202.0.osk)<br>
 For low gamma + HD.
 
 <details>
 <summary>Previous versions</summary>
+
+## [Aki Low AR HD 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%201.1.osk)
+[![](https://osu.ppy.sh/ss/18398461/c1ed)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%201.1.osk)<br>
 
 ## [Aki Low AR HD 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%201.0.osk)
 [![](https://osu.ppy.sh/ss/18356270/d271)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%201.0.osk)<br><br><br>
