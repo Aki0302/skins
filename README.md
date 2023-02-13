@@ -23,8 +23,9 @@ Most elements are based on [Misaki Tobisawa](https://skins.osuck.net/skins/171?v
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki HD 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HD%201.0.osk)
-[![](https://osu.ppy.sh/ss/18398462/ca93)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HD%201.0.osk)
+# [~~Aki HD 1.0~~](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HD%201.0.osk)
+[![](https://osu.ppy.sh/ss/18398462/ca93)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HD%201.0.osk)<br>
+Currently not used.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
