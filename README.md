@@ -3,11 +3,14 @@ Most elements are based on [Misaki Tobisawa](https://skins.osuck.net/skins/171?v
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki 3.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.0.osk)
-[![](https://osu.ppy.sh/ss/18429812/008e)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.0.osk)
+# [Aki 3.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.1.osk)
+[![](https://osu.ppy.sh/ss/18446066/9298)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.1.osk)
 
 <details>
 <summary>Previous versions</summary>
+
+## [Aki 3.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.0.osk)
+[![](https://osu.ppy.sh/ss/18446067/db27)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.0.osk)<br>
 
 ## [Aki 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%202.0.osk)
 [![](https://osu.ppy.sh/ss/18398415/63c4)](https://github.com/Aki0302/skins/raw/main/skins/Aki%202.0.osk)<br>
