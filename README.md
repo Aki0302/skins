@@ -43,12 +43,15 @@ I use 0.5x cursor size for HDDTHR.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki Low AR 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.0.osk)
-[![](https://osu.ppy.sh/ss/18420356/4013)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.0.osk)
+# [Aki Low AR 2.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.1.osk)
+[![](https://osu.ppy.sh/ss/18461317/63fd)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.1.osk)
 For low gamma.
 
 <details>
 <summary>Previous versions</summary>
+
+## [Aki Low AR 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.0.osk)
+[![](https://osu.ppy.sh/ss/18420356/4013)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.0.osk)
 
 ## [Aki Low AR 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%201.1.osk)
 [![](https://osu.ppy.sh/ss/18398438/da78)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%201.1.osk)
