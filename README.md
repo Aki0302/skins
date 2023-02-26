@@ -59,12 +59,15 @@ For low gamma.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki Low AR HD 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%202.0.osk)
-[![](https://osu.ppy.sh/ss/18420357/d704)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%202.0.osk)
+# [Aki Low AR HD 2.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%202.1.osk)
+[![](https://osu.ppy.sh/ss/18460171/e5f3)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%202.1.osk)
 For low gamma + HD.
 
 <details>
 <summary>Previous versions</summary>
+
+## [Aki Low AR HD 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%202.0.osk)
+[![](https://osu.ppy.sh/ss/18420357/d704)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%202.0.osk)
 
 ## [Aki Low AR HD 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%201.1.osk)
 [![](https://osu.ppy.sh/ss/18398461/c1ed)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%201.1.osk)
