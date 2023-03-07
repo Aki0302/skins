@@ -35,6 +35,10 @@ Currently not used.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
+# [Aki High AR 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20High%20AR%201.0.osk)
+[![](https://osu.ppy.sh/ss/18477176/4798)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20High%20AR%201.0.osk)
+
+<!----------------------------------------------------------------------------------------------------------------------------->
 # [Aki HDDTHR 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HDDTHR%201.0.osk)
 [![](https://osu.ppy.sh/ss/18452219/eb45)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HDDTHR%201.0.osk)
 For AR 10.87 – 11.
