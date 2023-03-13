@@ -40,12 +40,15 @@ Thin approach circle.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki Low AR 3.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%203.0.osk)
-[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20Low%20AR%203.0.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%203.0.osk)
+# [Aki Low AR 3.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%203.1.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20Low%20AR%203.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%203.1.osk)
 For low gamma.
 
 <details>
 <summary>Previous versions</summary>
+
+## [Aki Low AR 3.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%203.0.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20Low%20AR%203.0.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%203.0.osk)
 
 ## [Aki Low AR 2.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.1.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20Low%20AR%202.1.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%202.1.osk)
