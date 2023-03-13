@@ -24,7 +24,7 @@ Cursor size: 0.75x
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 # [Aki AR8 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%201.0.osk)
-[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20AR8%201.0.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%201.0.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20AR8%201.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%201.0.osk)
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
