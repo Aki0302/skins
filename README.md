@@ -1,6 +1,8 @@
 Mixed skins.<br>
 Most elements are based on [Misaki Tobisawa](https://skins.osuck.net/skins/171?v=0).
 
+[My custom elements](https://github.com/Aki0302/skins/blob/main/elements/elements.md)<br><br><br>
+
 Cursor size: 0.75x
 
 <!----------------------------------------------------------------------------------------------------------------------------->
