@@ -65,6 +65,7 @@ Thin approach circle.
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20Low%20AR%203.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%203.0.osk)
 
 For low gamma.
+I use [the Low AR HD skin](#aki-low-ar-hd-30) for AR 7.
 
 <details>
 <summary>Previous versions</summary>
