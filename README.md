@@ -20,7 +20,10 @@ Cursor size: 0.75x
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%202.0.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%202.0.osk)
 
 ## [Aki 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%201.0.osk)
-[![](https://github.com/Aki0302/skins/raw/main/images/Aki%201.0.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%201.0.osk)<br><br><br>
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%201.0.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%201.0.osk)
+
+## [Aki 0.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%200.0.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%200.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%200.0.osk)<br><br><br>
 </details>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
