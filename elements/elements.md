@@ -2,6 +2,28 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
+# [Background](https://github.com/Aki0302/skins/raw/main/elements/background/png.zip)
+
+[![](https://github.com/Aki0302/skins/raw/main/images/Background.png)](https://github.com/Aki0302/skins/raw/main/elements/background/png.zip)
+
+Need supporter.
+
+Font: [Baloo 2 SemiBold 600](https://fonts.google.com/specimen/Baloo+2) 64pt<br><br>
+
+[Download .png files](https://github.com/Aki0302/skins/raw/main/elements/background/png.zip) | [Download .svg file](https://github.com/Aki0302/skins/raw/main/elements/background/menu-background.svg)
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+# [Hit Bursts](https://github.com/Aki0302/skins/raw/main/elements/hit-bursts/png.zip)
+
+[![](https://github.com/Aki0302/skins/raw/main/images/Hit%20Bursts.png)](https://github.com/Aki0302/skins/raw/main/elements/hit-bursts/png.zip)
+
+Animated.
+
+[Download .png files](https://github.com/Aki0302/skins/raw/main/elements/hit-bursts/png.zip) | [Download .svg file](https://github.com/Aki0302/skins/raw/main/elements/hit-bursts/Hit%20Bursts.svg)
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
 # [Mod Icons](https://github.com/Aki0302/skins/raw/main/elements/mod-icons/png.zip)
 
 [![](https://github.com/Aki0302/skins/raw/main/images/Mod%20Icons%201.png)](https://github.com/Aki0302/skins/raw/main/elements/mod-icons/png.zip)
