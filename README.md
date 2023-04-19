@@ -7,11 +7,14 @@ Cursor size: 0.75x
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki 3.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.1.osk)
-[![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.1.osk)
+# [Aki 3.2](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.2.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.2.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.2.osk)
 
 <details>
 <summary>Previous versions</summary>
+
+## [Aki 3.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.1.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.1.osk)
 
 ## [Aki 3.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.0.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.0.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.0.osk)
@@ -28,8 +31,15 @@ Cursor size: 0.75x
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki AR8 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%201.0.osk)
-[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20AR8%201.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%201.0.osk)
+# [Aki AR8 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%201.1.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20AR8%201.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%201.1.osk)
+
+<details>
+<summary>Previous versions</summary>
+
+## [Aki AR8 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%201.0.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20AR8%201.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%201.0.osk)<br><br><br>
+</details>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -54,10 +64,17 @@ For AR 10.87 – 11.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki High AR 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20High%20AR%201.0.osk)
-[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20High%20AR%201.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20High%20AR%201.0.osk)
+# [Aki High AR 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20High%20AR%201.1.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20High%20AR%201.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20High%20AR%201.1.osk)
 
 Thin approach circle.
+
+<details>
+<summary>Previous versions</summary>
+
+## [Aki High AR 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20High%20AR%201.0.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20High%20AR%201.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20High%20AR%201.0.osk)<br><br><br>
+</details>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
