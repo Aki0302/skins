@@ -48,6 +48,20 @@ Cursor size: 0.75x
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
+# [Aki DT 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20DT%202.0.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20DT%202.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20DT%202.0.osk)
+
+Followpoints appear faster.
+
+<details>
+<summary>Previous versions</summary>
+
+# [Aki DT 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20DT%201.0.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20DT%201.0.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20DT%201.0.osk)<br><br><br>
+</details>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
 # [Aki EZ 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.1.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20EZ%201.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.1.osk)
 
@@ -141,13 +155,6 @@ For low gamma + HD.
 
 Based on One Skin 3.1(blue).<br>
 It was created by [OneStar](https://osu.ppy.sh/users/11144385), but I couldn't find the download link.
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-# [~~Aki DT 1.0~~](https://github.com/Aki0302/skins/raw/main/skins/Aki%20DT%201.0.osk)
-[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20DT%201.0.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20DT%201.0.osk)
-
-Currently not used.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
