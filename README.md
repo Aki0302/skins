@@ -56,7 +56,7 @@ Followpoints appear faster.
 <details>
 <summary>Previous versions</summary>
 
-# [Aki DT 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20DT%201.0.osk)
+## [Aki DT 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20DT%201.0.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20DT%201.0.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20DT%201.0.osk)<br><br><br>
 </details>
 
@@ -76,10 +76,17 @@ EZ skin, but I use [the Low AR skin](#aki-low-ar-30) more often for EZ.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki HDDTHR 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HDDTHR%201.0.osk)
-[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20HDDTHR%201.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HDDTHR%201.0.osk)
+# [Aki HDDTHR 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HDDTHR%202.0.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20HDDTHR%202.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HDDTHR%202.0.osk)
 
-For AR 10.87 – 11.
+Followpoints appear faster.
+
+<details>
+<summary>Previous versions</summary>
+
+## [Aki HDDTHR 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HDDTHR%201.0.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20HDDTHR%201.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HDDTHR%201.0.osk)<br><br><br>
+</details>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
