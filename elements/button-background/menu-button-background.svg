@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1386"
-   height="189"
-   viewBox="0 0 366.71249 50.006249"
+   width="1398"
+   height="206"
+   viewBox="0 0 369.88749 54.504166"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -18,30 +18,40 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#758799"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0"
      inkscape:showpageshadow="false"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
      showborder="false"
      borderlayer="false"
-     inkscape:zoom="0.74564394"
-     inkscape:cx="635.69215"
-     inkscape:cy="240.06096"
+     inkscape:zoom="0.52724989"
+     inkscape:cx="792.79296"
+     inkscape:cy="-159.31725"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     shape-rendering="auto" />
   <defs
      id="defs2" />
   <g
      inkscape:label="레이어 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <rect
+       style="fill:#758799;fill-opacity:1;stroke-width:0"
+       id="rect231"
+       width="366.71249"
+       height="49.741665"
+       x="2.3812499"
+       y="2.3812499"
+       inkscape:label="menu-button-background" />
+  </g>
 </svg>

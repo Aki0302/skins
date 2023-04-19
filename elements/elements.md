@@ -32,6 +32,22 @@ Animated.<br><br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
+# [Hitcircle](https://github.com/Aki0302/skins/raw/main/elements/hitcircle/png.zip)
+
+[![](https://github.com/Aki0302/skins/raw/main/images/Hitcircle%201.png)](https://github.com/Aki0302/skins/raw/main/elements/hitcircle/png.zip)
+
+<details>
+<summary>Why is the 4th hitcircle so weird?</summary>
+
+![](https://github.com/Aki0302/skins/raw/main/images/Hitcircle%202.gif)
+
+Watch this.
+</details>
+
+[Download .png files](https://github.com/Aki0302/skins/raw/main/elements/hitcircle/png.zip) | [Download .svg files](https://github.com/Aki0302/skins/raw/main/elements/hitcircle/svg.zip)
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
 # [Mod Icons](https://github.com/Aki0302/skins/raw/main/elements/mod-icons/png.zip)
 
 [![](https://github.com/Aki0302/skins/raw/main/images/Mod%20Icons%201.png)](https://github.com/Aki0302/skins/raw/main/elements/mod-icons/png.zip)
