@@ -42,7 +42,7 @@ Animated.<br><br>
 ![](https://github.com/Aki0302/skins/raw/main/images/Hitcircle%202.gif)
 
 Watch this.
-</details>
+</details><br>
 
 [Download .png files](https://github.com/Aki0302/skins/raw/main/elements/hitcircle/png.zip) | [Download .svg files](https://github.com/Aki0302/skins/raw/main/elements/hitcircle/svg.zip)
 
