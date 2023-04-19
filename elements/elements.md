@@ -37,7 +37,7 @@ Animated.<br><br>
 [![](https://github.com/Aki0302/skins/raw/main/images/Hitcircle%201.png)](https://github.com/Aki0302/skins/raw/main/elements/hitcircle/png.zip)
 
 <details>
-<summary>Why is the 4th hitcircle so weird?</summary>
+<summary>Why is the 4th hitcircle so weird?</summary><br>
 
 ![](https://github.com/Aki0302/skins/raw/main/images/Hitcircle%202.gif)
 
