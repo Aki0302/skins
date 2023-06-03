@@ -62,13 +62,14 @@ Followpoints appear faster.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki EZ 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.1.osk)
-[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20EZ%201.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.1.osk)
-
-EZ skin, but I use [the Low AR skin](#aki-low-ar-30) more often for EZ.
+# [Aki EZ 1.2](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.2.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20EZ%201.2.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.2.osk)
 
 <details>
 <summary>Previous versions</summary>
+
+## [Aki EZ 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.1.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%20EZ%201.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.1.osk)
 
 ## [Aki EZ 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.0.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20EZ%201.0.jpg)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.0.osk)
