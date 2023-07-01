@@ -34,6 +34,8 @@ Cursor size: 0.75x
 # [Aki AR8 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%201.1.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20AR8%201.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%201.1.osk)
 
+I think this skin is unsuitable now. It may be updated/renamed/merged/removed soon.
+
 <details>
 <summary>Previous versions</summary>
 
@@ -45,6 +47,8 @@ Cursor size: 0.75x
 
 # [Aki AR8 HD 1.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%20HD%201.0.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20AR8%20HD%201.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20AR8%20HD%201.0.osk)
+
+I think this skin is unsuitable now. It may be updated/renamed/merged/removed soon.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -65,6 +69,8 @@ Followpoints appear faster.
 # [Aki EZ 1.2](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.2.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20EZ%201.2.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20EZ%201.2.osk)
 
+I think this skin is unsuitable now. It may be updated/renamed/merged/removed soon.
+
 <details>
 <summary>Previous versions</summary>
 
@@ -80,7 +86,8 @@ Followpoints appear faster.
 # [Aki HDDTHR 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HDDTHR%202.0.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20HDDTHR%202.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20HDDTHR%202.0.osk)
 
-Followpoints appear faster.
+Followpoints appear faster.<br>
+I think this skin is unsuitable now. It may be updated/renamed/merged/removed soon.
 
 <details>
 <summary>Previous versions</summary>
@@ -109,7 +116,7 @@ Thin approach circle.
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20Low%20AR%203.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%203.0.osk)
 
 For low gamma.<br>
-But I think [the Low AR HD skin](#aki-low-ar-hd-31) is better now. I will improve this soon.
+I think this skin is unsuitable now. It may be updated/renamed/merged/removed soon.
 
 <details>
 <summary>Previous versions</summary>
@@ -132,7 +139,8 @@ But I think [the Low AR HD skin](#aki-low-ar-hd-31) is better now. I will improv
 # [Aki Low AR HD 3.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%203.1.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20Low%20AR%20HD%203.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20Low%20AR%20HD%203.1.osk)
 
-For low gamma + HD.
+For low gamma + HD.<br>
+I think this skin is unsuitable now. It may be updated/renamed/merged/removed soon.
 
 <details>
 <summary>Previous versions</summary>
