@@ -7,11 +7,14 @@ Cursor size: 0.75x
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki 3.2](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.2.osk)
-[![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.2.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.2.osk)
+# [Aki 3.3](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.3.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.3.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.3.osk)
 
 <details>
 <summary>Previous versions</summary>
+
+## [Aki 3.2](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.2.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.2.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.2.osk)
 
 ## [Aki 3.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.1.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.1.osk)
