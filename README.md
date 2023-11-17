@@ -7,11 +7,14 @@ Cursor size: 0.75x
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-# [Aki 3.3](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.3.osk)
-[![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.3.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.3.osk)
+# [Aki 3.4](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.4.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.4.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.4.osk)
 
 <details>
 <summary>Previous versions</summary>
+
+## [Aki 3.3](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.3.osk)
+[![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.3.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.3.osk)
 
 ## [Aki 3.2](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.2.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%203.2.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%203.2.osk)
@@ -58,7 +61,8 @@ I think this skin is unsuitable now. It may be updated/renamed/merged/removed so
 # [Aki DT 2.0](https://github.com/Aki0302/skins/raw/main/skins/Aki%20DT%202.0.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20DT%202.0.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20DT%202.0.osk)
 
-Followpoints appear faster.
+Followpoints appear faster.<br>
+I think this skin is unsuitable now. It may be updated/renamed/merged/removed soon.
 
 <details>
 <summary>Previous versions</summary>
@@ -104,7 +108,8 @@ I think this skin is unsuitable now. It may be updated/renamed/merged/removed so
 # [Aki High AR 1.1](https://github.com/Aki0302/skins/raw/main/skins/Aki%20High%20AR%201.1.osk)
 [![](https://github.com/Aki0302/skins/raw/main/images/Aki%20High%20AR%201.1.png)](https://github.com/Aki0302/skins/raw/main/skins/Aki%20High%20AR%201.1.osk)
 
-Thin approach circle.
+Thin approach circle.<br>
+I think this skin is unsuitable now. It may be updated/renamed/merged/removed soon.
 
 <details>
 <summary>Previous versions</summary>
